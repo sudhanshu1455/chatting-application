@@ -1,9 +1,11 @@
+// warning : first read the given txt file ...
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.*;
 import java.util.Scanner;
 
+// code by sudhanshu pandey .
 public class server {
 
     // constructor ....
