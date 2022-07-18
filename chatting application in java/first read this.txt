@@ -1,0 +1,9 @@
+step : 
+
+1 . firstly compile the server file  , then compile client file . 
+
+2 . Id can be anything 
+
+3. password of sever and client side is : sudhanshu .
+
+4. if you write exit in chat then program will be terminated .  
