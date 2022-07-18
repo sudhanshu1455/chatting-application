@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
-
+// code by sudhanshu pandey
 public class clint {
     BufferedReader br;
     PrintWriter out;
